@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>足迹</title>
+  <id>https://wenjq0911.github.io</id>
+  <updated>2018-05-03T10:34:00+08:00</updated>
+  <subtitle>走过就要留下点什么</subtitle>
+  <link href="https://wenjq0911.github.io"></link>
+  <author>
+    <name>足迹</name>
+  </author>
+  <entry>
+    <title>测试</title>
+    <updated>2018-05-03T09:04:05+08:00</updated>
+    <id>tag:wenjq0911.github.io,2018-05-03:/hello.html</id>
+    <content type="html">&lt;p&gt;测试博客。&lt;/p&gt;&#xA;</content>
+    <link href="https://wenjq0911.github.io/hello.html"></link>
+  </entry>
+</feed>
